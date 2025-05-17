@@ -29,10 +29,8 @@ Le bean metier utilise automatiquement l’instance de DaoImpl grâce à l’inj
 🧪 Résultat obtenu
 Quand je lance le programme, le calcul effectué par le composant métier utilise la valeur retournée par DaoImpl. Le résultat affiché est :
 
-bash
-Copier
-Modifier
-Résultat = 42.0
+Résultat = 84.0
+
 🧠 Ce que j’ai appris
 Comment fonctionne l’inversion de contrôle avec Spring
 
