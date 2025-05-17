@@ -29,7 +29,7 @@ Le bean metier utilise automatiquement l’instance de DaoImpl grâce à l’inj
 🧪 Résultat obtenu
 Quand je lance le programme, le calcul effectué par le composant métier utilise la valeur retournée par DaoImpl. Le résultat affiché est :
 
-![Résultat console](screenshots/de2.PNG)
+![Résultat console](screenshot/de2.PNG)
 
 
 🧠 Ce que j’ai appris
