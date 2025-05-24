@@ -73,6 +73,4 @@ Grâce à cette approche, j’ai pu :
 - Améliorer la lisibilité,
 - Faciliter les évolutions futures.
 
-Cette technique est très utilisée dans les projets Java professionnels et constitue une **base essentielle pour la maîtrise de Spring**.
-
 ---
